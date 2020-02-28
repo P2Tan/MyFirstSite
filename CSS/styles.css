@@ -1,0 +1,41 @@
+/*Regular CSS*/
+body {
+   background-color:#8fbc8f;
+   }
+   hr:hover {
+     display: block;
+     border-style: dotted none none;
+     Width: 40%;
+     border-width:50px;
+     border-color: #bd83ce;
+
+   }
+   h3{color: #b22222;}
+   h1{color: #b22222;}
+   img:hover{
+     height: 200px;
+     background-color: pink;
+     border-radius: 100%;
+   }
+/*Class CSS*/
+.potato{
+  background-color:#6807f9;
+}
+.shwub{
+  background-color:#5b0909;
+}
+.oink{
+  display: block;
+  border-style: dotted none none;
+  Width: 20%;
+  border-width:10px;
+  border-color: #fdd365;
+}
+.hungry{
+  font-style: italic;
+}
+
+/*ID CSS*/
+#shwuberry{
+  color: white;
+}
